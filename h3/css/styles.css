@@ -1,0 +1,73 @@
+
+
+/** HEADER **/
+#header-nav {
+  background-color: #8B8A8B;
+  border-radius: 0;
+  border: 2px solid #000;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid: #000;
+  border-top-style: solid;
+  background-color: #8B8A8B;
+}
+#header-nav p {
+  color: #000;
+  font-size: 3em;
+  font-weight:bold;
+  margin-top: 1px;
+  margin-left: -5px;
+  text-shadow: 3px 3px 7px #222222;
+}
+ 
+h2 {
+    font-size: 1.25em;
+    text-decoration-color: #000
+}
+p {
+  background-color: #8B8A8B;
+  padding-left: 9px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+h1 {
+  font-weight: bold;
+  font-family: sans-serif;
+  font-style: initial;
+}
+ul {
+  background-color: #8B8A8B;
+}
+span, strong {
+  font-size: 1.3em;
+  font-weight:bold;
+  text-align-last: center;
+}
+
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+div.menu-bar ul ul {
+  display: none;
+}
+
+div.menu-bar li:hover > ul {
+  display: block;
+}
+ 
+/********** Extra small devices only **********/
+ 
+  /* End Header */

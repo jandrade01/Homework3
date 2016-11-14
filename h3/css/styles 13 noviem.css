@@ -1,0 +1,45 @@
+
+
+/** HEADER **/
+
+#header-nav {
+  background-color: #8B8A8B;
+  border-radius: 0;
+  border: 2px solid #000;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 10px solid #ffffff;
+}
+#header-nav p {
+  color: #000;
+  font-size: 3em;
+  font-weight:bold;
+  margin-top: 1px;
+  margin-left: -5px;
+  text-shadow: 3px 3px 7px #222222;
+}
+h2 {
+    font-size: 1.25em;
+}
+p {
+  background-color: #888;
+  padding-left: 9px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+h1 {
+  font-weight: bold;
+  font-family: sans-serif;
+  font-style: initial;
+}
+
+li {
+  font-weight: bold;
+  text-align-last: center;
+  border: inset; 
+}
+
+/********** Extra small devices only **********/
+ 
+  /* End Header */
